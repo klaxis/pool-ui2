@@ -4,9 +4,9 @@
   * Copyright 2021 Authors AlphaX Projects
 */
 
-var WebURL         = "https://solopool.pro/";
-var API            = "https://solopool.pro/api/";
-var stratumAddress = "stratum+tcp://solopool.pro";
+var WebURL         = "https://meowpool.com/";
+var API            = "https://meowpool.com/api/";
+var stratumAddress = "stratum+tcp://meowpool.com";
 
 currentPage = "index";
 
